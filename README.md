@@ -3,7 +3,7 @@
 
 This is my **Personal Portfolio Website** built using HTML, CSS, JavaScript, and SCSS. It showcases my skills, projects, resume, and contact information in a clean and responsive design.
 
-🔗 **Live Demo:** [https://your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
+🔗 **Live Demo:** (https://xsmarakdas.github.io/Smaraks_Portfolio/)
 
 ---
 
